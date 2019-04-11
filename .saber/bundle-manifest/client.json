@@ -1,0 +1,133 @@
+{
+  "publicPath": "/_saber/",
+  "all": [
+    "js/404-page.22342d84.js",
+    "js/client.5d10cf4d.js",
+    "js/page--_posts-hello-world-md.7006f620.js",
+    "js/page--_posts-more-test-md.a4db1814.js",
+    "js/page--_posts-testing123-md.0ecd9d46.js",
+    "js/page--about-md.cdccbb1d.js",
+    "js/page--index-vue.f5926bd9.js"
+  ],
+  "initial": [
+    "js/client.5d10cf4d.js"
+  ],
+  "async": [
+    "js/404-page.22342d84.js",
+    "js/page--_posts-hello-world-md.7006f620.js",
+    "js/page--_posts-more-test-md.a4db1814.js",
+    "js/page--_posts-testing123-md.0ecd9d46.js",
+    "js/page--about-md.cdccbb1d.js",
+    "js/page--index-vue.f5926bd9.js"
+  ],
+  "modules": {
+    "22620196": [
+      1
+    ],
+    "668914fe": [
+      1
+    ],
+    "244f4da8": [
+      1
+    ],
+    "379b49a8": [
+      1
+    ],
+    "0f388635": [
+      1
+    ],
+    "15f8873c": [
+      1
+    ],
+    "d467307c": [
+      1
+    ],
+    "9e32ed68": [
+      1
+    ],
+    "dadc103e": [
+      1
+    ],
+    "1a8a90f2": [
+      1
+    ],
+    "40a2e8fc": [
+      1
+    ],
+    "7e187f48": [
+      1
+    ],
+    "e343101a": [
+      1
+    ],
+    "3a896c98": [
+      1
+    ],
+    "0379fd59": [
+      1
+    ],
+    "7dbde931": [
+      1
+    ],
+    "67e5c01d": [
+      1
+    ],
+    "a67bbdc0": [
+      1
+    ],
+    "f0ab6ddc": [
+      1
+    ],
+    "83085fa8": [
+      1
+    ],
+    "debbc0f0": [
+      1
+    ],
+    "c1d27a9c": [
+      1
+    ],
+    "7ff01f20": [
+      1
+    ],
+    "39f66a8d": [
+      1
+    ],
+    "84d2721e": [
+      1
+    ],
+    "4c74a5c3": [
+      1
+    ],
+    "1e6497e2": [
+      1
+    ],
+    "0af18460": [
+      1
+    ],
+    "5da4f324": [
+      1
+    ],
+    "756ebee4": [
+      1
+    ],
+    "8da671ae": [
+      6
+    ],
+    "8ddb2f7a": [
+      4
+    ],
+    "455b84f8": [
+      2
+    ],
+    "7e33efea": [
+      3
+    ],
+    "46046e7e": [
+      5
+    ],
+    "1b0a0838": [
+      0
+    ]
+  }
+}

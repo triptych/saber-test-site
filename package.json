@@ -1,0 +1,12 @@
+{
+  "name": "test-site",
+  "version": "1.0.0",
+  "description": "test site",
+  "main": "index.js",
+  "author": "andrew wooldridge",
+  "license": "MIT",
+  "dependencies": {
+    "saber": "^0.4.1",
+    "saber-plugin-query-posts": "^0.1.0"
+  }
+}
